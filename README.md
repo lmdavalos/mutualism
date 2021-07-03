@@ -1,6 +1,4 @@
-# mutualism
-"Fruit odorants mediate co-specialization in a multispecies plant-animal mutualism "
-# README
+# "Fruit odorants mediate co-specialization in a multispecies plant-animal mutualism "
 
 Required R packages:
 vegan
