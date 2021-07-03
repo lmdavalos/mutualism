@@ -1,0 +1,57 @@
+#NEXUS
+[R-package APE, Thu Oct 10 16:36:55 2019]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 22;
+	TAXLABELS
+		Piper_urostachyum
+		Piper_colonense
+		Piper_peracuminatum
+		Piper_concepcionis
+		Piper_biolleyi
+		Piper_auritifolium
+		Piper_imperiale
+		Piper_multiplinervium
+		Piper_peltatum
+		Piper_schiedeanum
+		Piper_reticulatum
+		Piper_darienense
+		Piper_garagaranum
+		Piper_trigonum
+		Piper_augustum
+		Piper_nudifolium
+		Piper_spD
+		Piper_sanctifelicis
+		Piper_silvivagum
+		Piper_umbricola
+		Piper_hispidum
+		Piper_aduncum
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Piper_urostachyum,
+		2	Piper_colonense,
+		3	Piper_peracuminatum,
+		4	Piper_concepcionis,
+		5	Piper_biolleyi,
+		6	Piper_auritifolium,
+		7	Piper_imperiale,
+		8	Piper_multiplinervium,
+		9	Piper_peltatum,
+		10	Piper_schiedeanum,
+		11	Piper_reticulatum,
+		12	Piper_darienense,
+		13	Piper_garagaranum,
+		14	Piper_trigonum,
+		15	Piper_augustum,
+		16	Piper_nudifolium,
+		17	Piper_spD,
+		18	Piper_sanctifelicis,
+		19	Piper_silvivagum,
+		20	Piper_umbricola,
+		21	Piper_hispidum,
+		22	Piper_aduncum
+	;
+	TREE * UNTITLED = [&U] ((((1:0.00163904,(2:0.00330221,3:0.00328539):1e-08):0.00163897,4:0.01901095):0.00324997,(5:0.05036686,(((6:0.00660064,7:0.01004243):0.01775571,(8:0.02497653,9:0.04836088):0.00175055):0.00402305,(((10:0.05873666,(11:0.03559517,12:0.04714497):0.01207592):0.00566277,(13:0.0121374,(14:0.02164444,15:0.01964233):0.00011795):0.01091199):1e-08,16:0.01553539):0.00450252):0.0162208):0.00234455):0.00342934,(17:0.01003609,((18:0.00164661,19:0.00328996):1e-08,(20:0.00832988,21:0.00329352):1e-08):1e-08):0.00494185,22:0.01918303);
+END;
