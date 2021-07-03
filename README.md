@@ -10,6 +10,8 @@ phytools
 mvMORPH
 l1ou
 
+0. Contact sharlene.santana@gmail.com for 2-3, liliana.davalos@stonybrook.edu for 4-7.
+
 1. Place all scripts in the same folder as the data.
 
 2. VOC_multivariate_analyses.R runs the Multivariate Dimensional Scaling (MDS) analyses, plots and saves the results, and identifies the VOCs that significantly explain variation along MDS1-5.
