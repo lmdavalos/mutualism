@@ -20,7 +20,7 @@ l1ou
 
 4. setup_VOCs.R organizes the data for multivariate models in brm/Stan. Saves setup_VOCs.RData for downstream analyses.
 
-5. BayesVOC_v4.R runs multivariate models with +1 for log transformations. Several analyses must run more than once to make sure they are converging. Modify this script for +10 or other such constants and change the save file. Saves multiresponse_v3.RData for plotting.
+5. BayesVOC_v4.R runs multivariate models with +1 for log transformations. Several analyses must run more than once to make sure they are converging. Modify this script for 0.1, 1, and 10 constants and change the save file. Saves multiresponse_v3.RData for plotting.
 
 6. plotting_models.R runs and plots leave one out posterior predictive checks and model coefficients. 
 
