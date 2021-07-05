@@ -24,4 +24,4 @@ l1ou
 
 6. plotting_models.R runs and plots leave one out posterior predictive checks and model coefficients. 
 
-7. OPTIONAL picking_models.R if you run multiple constants on step 5, use this script to compare loo.
+7. OPTIONAL picking_models.R if you ran multiple constants on step 5, use this script to compare leave one out (loo) statistics.
