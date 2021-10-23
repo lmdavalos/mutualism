@@ -1,5 +1,7 @@
 # "Fruit odorants mediate co-specialization in a multispecies plant-animal mutualism"
 
+Published: https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0312
+
 Required R packages:
 vegan
 fps
